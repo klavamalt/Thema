@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+  override-colors: 100%;
+  line-height: 100%;
+}
+body {
+  font-family: ThemaCy;
+}
+.main {
+  background: url(../images/main_page.png) no-repeat;
+  background-size: cover;
+
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.thema-title {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 7.29vw;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  margin-top: 13vw;
+
+  line-height: 5vw;
+
+  background: -webkit-linear-gradient(107deg, #a31b33 -53.01%, #d27a3b 199.2%),
+    #fff;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.font-text {
+  color: #b05335;
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 4.86vw;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: lowercase;
+
+  margin-top: -1vw;
+}
+.about {
+  background: url(../images/about_font.png) no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 73vw;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  padding-left: 19.72vw;
+  padding-top: 13.33vw;
+}
+.about-wrapper {
+  width: 26.76vw;
+}
+.h-about-font {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 3.75vw;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.h-designers {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 2.88vw;
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 35px;
+}
+.names {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 3.57vw;
+  font-style: normal;
+  font-weight: 400;
+  color: #4c0406;
+  margin-top: 15px;
+}
+.h-co-author {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 2.88vw;
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 35px;
+}
+.name-co-aut {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 3.57vw;
+  font-style: normal;
+  font-weight: 400;
+  color: #4c0406;
+  margin-top: 15px;
+}
+.h-year {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 2.88vw;
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 35px;
+}
+.year {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 3.57vw;
+  font-style: normal;
+  font-weight: 400;
+  color: #4c0406;
+  font-variant-numeric: lining-nums proportional-nums;
+  margin-top: 15px;
+}
+.h-lang {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 2.88vw;
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 35px;
+}
+.lang {
+  font-family: 'Thema Cy', sans-serif;
+  font-size: 3.57vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: #4c0406;
+  font-variant-numeric: lining-nums proportional-nums;
+  margin-top: 15px;
+}

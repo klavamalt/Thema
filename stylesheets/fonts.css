@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-BoldItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-Light.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-LightItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ThemaCy';
+  src: url('../fonts/ThemaCy-RegularItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
