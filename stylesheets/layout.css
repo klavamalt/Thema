@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  override-colors: 100%;
   line-height: 100%;
 }
 body {
@@ -26,8 +25,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
 
-  margin-top: 13vw;
-
+  margin-top: 11vw;
   line-height: 5vw;
 
   background: -webkit-linear-gradient(107deg, #a31b33 -53.01%, #d27a3b 199.2%),
@@ -73,7 +71,7 @@ body {
   font-size: 2.88vw;
   font-style: normal;
   font-weight: 400;
-  margin-top: 35px;
+  margin-top: 2.43vw;
 }
 .names {
   font-family: 'Thema Cy', sans-serif;
@@ -81,14 +79,14 @@ body {
   font-style: normal;
   font-weight: 400;
   color: #4c0406;
-  margin-top: 15px;
+  margin-top: 1.04vw;
 }
 .h-co-author {
   font-family: 'Thema Cy', sans-serif;
   font-size: 2.88vw;
   font-style: normal;
   font-weight: 400;
-  margin-top: 35px;
+  margin-top: 2.43vw;
 }
 .name-co-aut {
   font-family: 'Thema Cy', sans-serif;
@@ -96,14 +94,14 @@ body {
   font-style: normal;
   font-weight: 400;
   color: #4c0406;
-  margin-top: 15px;
+  margin-top: 1.04vw;
 }
 .h-year {
   font-family: 'Thema Cy', sans-serif;
   font-size: 2.88vw;
   font-style: normal;
   font-weight: 400;
-  margin-top: 35px;
+  margin-top: 2.43vw;
 }
 .year {
   font-family: 'Thema Cy', sans-serif;
@@ -112,14 +110,14 @@ body {
   font-weight: 400;
   color: #4c0406;
   font-variant-numeric: lining-nums proportional-nums;
-  margin-top: 15px;
+  margin-top: 1.04vw;
 }
 .h-lang {
   font-family: 'Thema Cy', sans-serif;
   font-size: 2.88vw;
   font-style: normal;
   font-weight: 400;
-  margin-top: 35px;
+  margin-top: 2.43vw;
 }
 .lang {
   font-family: 'Thema Cy', sans-serif;
@@ -129,5 +127,5 @@ body {
   line-height: normal;
   color: #4c0406;
   font-variant-numeric: lining-nums proportional-nums;
-  margin-top: 15px;
+  margin-top: 1.04vw;
 }
