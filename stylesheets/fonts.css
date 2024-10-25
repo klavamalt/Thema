@@ -7,19 +7,19 @@
 @font-face {
   font-family: 'ThemaCy';
   src: url('../fonts/ThemaCy-BoldItalic.woff') format('woff');
-  font-weight: 500;
+  font-weight: 700;
   font-style: italic;
 }
 @font-face {
   font-family: 'ThemaCy';
   src: url('../fonts/ThemaCy-Light.woff') format('woff');
-  font-weight: 500;
+  font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: 'ThemaCy';
   src: url('../fonts/ThemaCy-LightItalic.woff') format('woff');
-  font-weight: 500;
+  font-weight: 300;
   font-style: italic;
 }
 @font-face {
