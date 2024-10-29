@@ -20,7 +20,6 @@ body {
 }
 
 .thema-title {
-  font-family: 'ThemaCy';
   font-size: 100px;
   font-style: normal;
   font-weight: 700;
@@ -41,7 +40,6 @@ body {
 
 .font-text {
   color: #b05335;
-  font-family: 'ThemaCy';
   font-size: 65px;
   font-style: normal;
   font-weight: 500;
@@ -68,7 +66,6 @@ body {
   height: 544px;
 }
 .h-about-font {
-  font-family: 'ThemaCy', sans-serif;
   font-size: 54px;
   font-style: normal;
   font-weight: 700;
@@ -78,7 +75,6 @@ body {
 .h-co-author,
 .h-year,
 .h-lang {
-  font-family: 'ThemaCy', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 400;
@@ -86,7 +82,6 @@ body {
 }
 .names,
 .name-co-aut {
-  font-family: 'ThemaCy', sans-serif;
   font-size: 50px;
   font-style: normal;
   font-weight: 400;
@@ -96,7 +91,6 @@ body {
 
 .year,
 .lang {
-  font-family: 'ThemaCy';
   font-size: 50px;
   font-style: normal;
   font-weight: 400;
@@ -117,7 +111,6 @@ body {
   position: relative;
 }
 .h-qualities {
-  font-family: 'ThemaCy';
   font-size: 55px;
   color: #efa51c;
   font-style: normal;
@@ -128,7 +121,6 @@ body {
   padding: 0 391px;
 }
 .text-fl {
-  font-family: 'ThemaCy';
   font-size: 210px;
   color: #a31b33;
   font-style: normal;
@@ -139,7 +131,6 @@ body {
   top: 560px;
 }
 .text-ligatura {
-  font-family: 'ThemaCy';
   font-size: 45px;
   color: #efe9cf;
   font-style: normal;
@@ -151,7 +142,6 @@ body {
   top: 767px;
 }
 .text-k {
-  font-family: 'ThemaCy';
   font-size: 140px;
   color: #a31b33;
   font-style: normal;
@@ -162,7 +152,6 @@ body {
   top: 341px;
 }
 .text-kapli {
-  font-family: 'ThemaCy';
   font-size: 45px;
   color: #efe9cf;
   font-style: normal;
@@ -173,7 +162,6 @@ body {
   top: 500px;
 }
 .contrast {
-  font-family: 'ThemaCy';
   font-size: 160px;
   color: #a31b33;
   font-style: normal;
@@ -184,7 +172,6 @@ body {
   top: 623px;
 }
 .h-contrast {
-  font-family: 'ThemaCy';
   font-size: 45px;
   color: #efe9cf;
   font-style: normal;
@@ -195,7 +182,6 @@ body {
   top: 800px;
 }
 .text-H {
-  font-family: 'ThemaCy';
   font-size: 180px;
   color: #a31b33;
   font-style: normal;
@@ -206,7 +192,6 @@ body {
   top: 594px;
 }
 .h-zasechki {
-  font-family: 'ThemaCy';
   font-size: 45px;
   color: #efe9cf;
   font-style: normal;
@@ -230,7 +215,6 @@ body {
   position: relative;
 }
 .text-1500 {
-  font-family: 'ThemaCy';
   font-size: 55px;
   color: #efa51c;
   font-style: normal;
@@ -243,7 +227,6 @@ body {
   text-wrap: nowrap;
 }
 .qlyphs-1 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #851527;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -255,7 +238,6 @@ body {
   top: 240px;
 }
 .qlyphs-2 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #851527;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -267,7 +249,6 @@ body {
   top: 240px;
 }
 .qlyphs-3 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #851527;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -279,7 +260,6 @@ body {
   top: 240px;
 }
 .qlyphs-4 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #851527;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -291,7 +271,6 @@ body {
   top: 240px;
 }
 .qlyphs-5 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #851527;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -303,7 +282,6 @@ body {
   top: 240px;
 }
 .qlyphs-6 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #a31b33;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -315,7 +293,6 @@ body {
   top: 419px;
 }
 .qlyphs-7 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #a31b33;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -327,7 +304,6 @@ body {
   top: 419px;
 }
 .qlyphs-8 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #a31b33;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -339,7 +315,6 @@ body {
   top: 419px;
 }
 .qlyphs-9 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #a31b33;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -351,7 +326,6 @@ body {
   top: 419px;
 }
 .qlyphs-10 {
-  font-family: 'ThemaCy';
   font-size: 127px;
   color: #a31b33;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -374,7 +348,6 @@ body {
   flex-direction: column;
 }
 .text-amount {
-  font-family: 'ThemaCy';
   font-size: 55px;
   color: #000000;
   font-style: normal;
@@ -385,7 +358,6 @@ body {
   padding-left: 530px;
 }
 .text-291 {
-  font-family: 'ThemaCy';
   font-size: 200px;
   color: #a31b33;
   font-style: normal;
@@ -402,7 +374,6 @@ body {
   margin-top: 770px;
 }
 .text-light {
-  font-family: 'ThemaCy';
   font-size: 70px;
   color: #a31b33;
   font-weight: 300;
@@ -410,7 +381,6 @@ body {
   transform: rotate(-11deg);
 }
 .text-light-it {
-  font-family: 'ThemaCy';
   font-size: 70px;
   color: #a31b33;
   font-weight: 300;
@@ -419,7 +389,6 @@ body {
   padding-right: 80px;
 }
 .text-regular {
-  font-family: 'ThemaCy';
   font-size: 85px;
   color: #a31b33;
   font-weight: 400;
@@ -429,7 +398,6 @@ body {
   padding-left: 150px;
 }
 .text-regular-it {
-  font-family: 'ThemaCy';
   font-size: 70px;
   color: #a31b33;
   font-weight: 400;
@@ -439,7 +407,6 @@ body {
   padding-left: 60px;
 }
 .text-medium {
-  font-family: 'ThemaCy';
   font-size: 80px;
   color: #a31b33;
   font-weight: 500;
@@ -449,7 +416,6 @@ body {
   padding-left: 210px;
 }
 .text-medium-it {
-  font-family: 'ThemaCy';
   font-size: 85px;
   color: #a31b33;
   font-weight: 500;
@@ -459,7 +425,6 @@ body {
   padding-left: 20px;
 }
 .text-bold {
-  font-family: 'ThemaCy';
   font-size: 80px;
   color: #a31b33;
   font-weight: 700;
@@ -468,7 +433,6 @@ body {
   padding-right: 25px;
 }
 .text-bold-it {
-  font-family: 'ThemaCy';
   font-size: 85px;
   color: #a31b33;
   font-weight: 700;
@@ -493,7 +457,6 @@ body {
   margin-top: -234px;
 }
 .text-ru-alp {
-  font-family: 'ThemaCy';
   font-size: 55px;
   color: #000000;
   font-weight: 700;
@@ -504,7 +467,6 @@ body {
   line-height: 65px;
 }
 .h-ru-alp {
-  font-family: 'ThemaCy';
   font-size: 80px;
   color: #000000;
   font-weight: 500;
@@ -514,7 +476,6 @@ body {
   padding-left: 1090px;
 }
 .text-en-alp {
-  font-family: 'ThemaCy';
   font-size: 50px;
   color: #000000;
   font-weight: 700;
@@ -533,13 +494,11 @@ body {
 }
 .text-name,
 .text-site {
-  font-family: 'ThemaCy';
   font-size: 25px;
   color: #000000;
   font-weight: 500;
 }
 .text-oct {
-  font-family: 'ThemaCy';
   font-size: 150px;
   color: #0c3c51;
   font-weight: 500;
@@ -554,7 +513,6 @@ body {
 }
 .text-graf,
 .text-Ori {
-  font-family: 'ThemaCy';
   font-size: 100px;
   color: #ffffff;
   font-weight: 500;
@@ -568,7 +526,6 @@ body {
   line-height: 100px;
 }
 .text-rossi {
-  font-family: 'ThemaCy';
   font-size: 35px;
   color: #ffffff;
   font-weight: 500;
@@ -578,7 +535,6 @@ body {
   line-height: 30px;
 }
 .text-link {
-  font-family: 'ThemaCy';
   font-size: 25px;
   color: #952033;
   font-weight: 500;
@@ -624,14 +580,12 @@ body {
 
 .name,
 .role {
-  font-family: 'ThemaCy';
   font-size: 25px;
   color: #000000;
   font-weight: 500;
   line-height: 30px;
 }
 .text-descript {
-  font-family: 'ThemaCy';
   font-size: 25px;
   color: #000000;
   font-weight: 500;
@@ -640,7 +594,6 @@ body {
 }
 
 .text-premer {
-  font-family: 'ThemaCy';
   font-size: 25px;
   color: #000000;
   font-weight: 500;
@@ -648,7 +601,6 @@ body {
   margin-top: 40px;
 }
 .text-link-2 {
-  font-family: 'ThemaCy';
   font-size: 25px;
   color: #000000;
   font-weight: 500;
@@ -674,7 +626,6 @@ body {
   padding-left: 300px;
 }
 .text-end {
-  font-family: 'ThemaCy';
   font-size: 55px;
   color: #efe9cf;
   font-weight: 700;
@@ -683,7 +634,6 @@ body {
   max-width: 624px;
 }
 .text-thema {
-  font-family: 'ThemaCy';
   font-size: 100px;
   color: #efe9cf;
   font-weight: 700;
@@ -705,7 +655,6 @@ body {
   flex-direction: column;
 }
 .my-name {
-  font-family: 'ThemaCy';
   font-size: 60px;
   color: #fff6cc;
   font-weight: 700;
@@ -716,7 +665,6 @@ body {
   -webkit-text-fill-color: transparent;
 }
 .my-group {
-  font-family: 'ThemaCy';
   font-size: 66px;
   font-variant-numeric: lining-nums proportional-nums;
   color: #fff6cc;
