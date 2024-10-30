@@ -15,7 +15,6 @@ body {
 
   display: flex;
   align-items: center;
-  /* justify-content: center; */
   flex-direction: column;
 }
 
@@ -201,13 +200,14 @@ body {
   left: 1057px;
   top: 810px;
 }
+
 /* glyphs */
 .qlyphs {
   background: url(../images/glyphs.png) no-repeat;
   background-size: cover;
 
   width: 1440px;
-  height: 787px;
+  height: 785px;
 
   display: flex;
 
