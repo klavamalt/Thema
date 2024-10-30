@@ -6,6 +6,8 @@ body {
   font-family: ThemaCy;
   background-color: #4c0406;
 }
+
+/* main-page */
 .main {
   background: url(../images/main_page.png) no-repeat;
   background-size: cover;
@@ -46,6 +48,7 @@ body {
 
   margin-top: -20px;
 }
+
 /* about-font */
 .about {
   background: url(../images/about_font.png) no-repeat;
@@ -64,7 +67,7 @@ body {
   width: 370px;
   height: 544px;
 }
-.h-about-font {
+.title-about-font {
   font-size: 54px;
   font-style: normal;
   font-weight: 700;
@@ -96,6 +99,7 @@ body {
   color: #4c0406;
   font-variant-numeric: lining-nums proportional-nums;
 }
+
 /* qualities-font */
 .qualities-font {
   background: url(../images/qualities_font.png) no-repeat;
@@ -180,7 +184,7 @@ body {
   left: 701px;
   top: 800px;
 }
-.text-H {
+.text-h {
   font-size: 180px;
   color: #a31b33;
   font-style: normal;
@@ -190,7 +194,7 @@ body {
   left: 1071px;
   top: 594px;
 }
-.h-zasechki {
+.h-serifs {
   font-size: 45px;
   color: #efe9cf;
   font-style: normal;
@@ -202,7 +206,7 @@ body {
 }
 
 /* glyphs */
-.qlyphs {
+.glyphs {
   background: url(../images/glyphs.png) no-repeat;
   background-size: cover;
 
@@ -214,7 +218,8 @@ body {
   flex-direction: column;
   position: relative;
 }
-.text-1500 {
+
+.glyphs-title {
   font-size: 55px;
   color: #efa51c;
   font-style: normal;
@@ -226,7 +231,8 @@ body {
   font-variant-numeric: lining-nums proportional-nums;
   text-wrap: nowrap;
 }
-.qlyphs-1 {
+
+.glyphs-letter {
   font-size: 127px;
   color: #851527;
   font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
@@ -234,105 +240,45 @@ body {
   font-style: normal;
   font-weight: 400;
   position: absolute;
+}
+
+.glyphs-1 {
   left: 378px;
   top: 240px;
 }
-.qlyphs-2 {
-  font-size: 127px;
-  color: #851527;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-2 {
   left: 526px;
   top: 240px;
 }
-.qlyphs-3 {
-  font-size: 127px;
-  color: #851527;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-3 {
   left: 680px;
   top: 240px;
 }
-.qlyphs-4 {
-  font-size: 127px;
-  color: #851527;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-4 {
   left: 834px;
   top: 240px;
 }
-.qlyphs-5 {
-  font-size: 127px;
-  color: #851527;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-5 {
   left: 971px;
   top: 240px;
 }
-.qlyphs-6 {
-  font-size: 127px;
-  color: #a31b33;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-6 {
   left: 365px;
   top: 419px;
 }
-.qlyphs-7 {
-  font-size: 127px;
-  color: #a31b33;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-7 {
   left: 530px;
   top: 419px;
 }
-.qlyphs-8 {
-  font-size: 127px;
-  color: #a31b33;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-8 {
   left: 685px;
   top: 419px;
 }
-.qlyphs-9 {
-  font-size: 127px;
-  color: #a31b33;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-9 {
   left: 833px;
   top: 419px;
 }
-.qlyphs-10 {
-  font-size: 127px;
-  color: #a31b33;
-  font-feature-settings: 'ss01' on, 'ss02' on, 'ss03' on, 'ss04' on, 'ss05' on,
-    'ss06' on, 'ss07' on, 'ss13' on, 'ss14' on;
-  font-style: normal;
-  font-weight: 400;
-  position: absolute;
+.glyphs-10 {
   left: 997px;
   top: 387px;
 }
@@ -347,7 +293,7 @@ body {
 
   flex-direction: column;
 }
-.text-amount {
+.title-amount-lang {
   font-size: 55px;
   color: #000000;
   font-style: normal;
@@ -357,7 +303,7 @@ body {
   margin-top: 295px;
   padding-left: 530px;
 }
-.text-291 {
+.text-amount {
   font-size: 200px;
   color: #a31b33;
   font-style: normal;
@@ -507,19 +453,18 @@ body {
   padding-left: 621px;
   line-height: 30px;
 }
-.nositel-graf {
+.bill-graf {
   text-align: right;
   width: fit-content;
 }
-.text-graf,
-.text-Ori {
+.text-bill {
   font-size: 100px;
   color: #ffffff;
   font-weight: 500;
   text-transform: uppercase;
   line-height: 100px;
 }
-.graf-ori {
+.title-graf-ori {
   margin-top: 390px;
   padding-left: 710px;
   gap: 40px;
@@ -544,8 +489,8 @@ body {
   line-height: 65px;
 }
 
-/* afisha-kot */
-.afisha-kot {
+/* afisha-cat */
+.afisha-cat {
   background: url(../images/afisha_kot.png) no-repeat;
   background-size: cover;
 
